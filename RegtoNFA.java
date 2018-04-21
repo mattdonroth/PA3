@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class NFAtoDFA {
+public class RegtoNFA {
 	public static void main(String [] args){	
 		String inputFile = args[0]; 
 		String outFile = args[1];
